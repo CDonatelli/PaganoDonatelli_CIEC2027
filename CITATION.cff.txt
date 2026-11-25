@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use anything from this repository in a peer-reviewed context, please cite it as below."
+authors:
+  - family-names: "Pagano", "Donatelli"
+    given-names: "Mark", "Cassandra"
+    orcid: "https://orcid.org/0000-0001-8641-0681"
+title: "CIEC2027_PaganoDonatelli"
+version: 1.0.0
+doi: 10.5281/zenodo.24544209
+date-released: 2026-11-25
+url: "https://github.com/CDonatelli/PaganoDonatelli_CIEC2027"
